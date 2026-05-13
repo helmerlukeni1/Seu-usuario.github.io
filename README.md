@@ -37,7 +37,7 @@ Site
   
   <style>
   body{
-    background-color: white;
+    background-color: blue;
   }
   p{
     text-align: center;
